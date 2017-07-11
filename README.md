@@ -1,4 +1,4 @@
-# node-w3c-validator
+# gulp-w3c-validator
 
 ![Status - Working in progress](https://img.shields.io/badge/Status-WIP-red.svg)
 ![npm](https://img.shields.io/badge/node-6.3.1-yellow.svg)
